@@ -1,0 +1,43 @@
+/*
+dark green #2C4001
+bright green #97BF04
+moss green #5A7302
+bright yellow #D7F205
+sunflower #BFB304
+*/
+body {
+	background-color: #DFF29B;
+	padding: 0 24px 36px 24px;
+}
+a {
+	color:#2C4001;
+	font-weight: bold;
+}
+a:hover {
+	color:#97BF04;
+}
+h1 {
+	color: #5A7302;
+}
+h1{
+	text-align: center;
+}
+p.picture {
+text-align: center;
+}
+
+p, li, th, td {
+	font-size: 1.2em;
+}
+th,td {
+	border: #97BF04 solid 3px ;
+	padding: 8px;}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+div {
+	text-align: center;
+}

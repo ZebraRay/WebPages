@@ -1,0 +1,48 @@
+/*
+white= #FFFFFF
+accent 1= #EE230C
+accent 2= #217245
+*/
+body {
+	padding: 20px;
+}
+
+h1, h2, h3 {
+	color: #EB230C;
+}
+h1 {
+	text-align: center;
+}
+th, td {
+	border:#217245 solid 3px;
+	padding: 8px;
+}
+table {
+	border-collapse: collapse;
+}
+a {
+	color: #EE230C;
+	font-weight: bold;
+	text-decoration-line: none;
+}
+a:hover {
+	color:#217245 ;
+}
+p1 {
+	background-color:#EE230C ;
+	color:#FFFFFF ;
+	width: auto;
+	height: auto;
+	padding: 2px;
+	border-color: #217245;
+	border-style:dashed;
+	border-width: 3px;
+}
+div {
+	background-color: #EE230C;
+	width: 646;
+	padding: 4px;
+	border-style: !important;
+	border-width: 2px;
+	border-color:#217245 ;
+}
